@@ -4507,11 +4507,11 @@
 	}
 
 	h2 {
-		text-transform: capitalize !important;
+		text-transform: none !important;
 	}
 
 	h1 {
-		text-transform: capitalize !important;
+		text-transform: none !important;
 	}
 
 	.major {

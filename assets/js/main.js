@@ -94,7 +94,7 @@
     $window.on("load", function () {
       window.setTimeout(function () {
         $body.removeClass("is-loading");
-      }, 100);
+      }, 0);
     });
 
     // Prioritize "important" elements on medium.
